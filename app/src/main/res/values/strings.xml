@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name = "main_text">Hello World\nfrom dorsa!</string>
+    <string name = "send_info">SEND</string>
+    <string name = "hint">Enter Name</string>
+
+</resources>
